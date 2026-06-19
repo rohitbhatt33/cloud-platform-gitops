@@ -1,0 +1,1 @@
+Production-style cloud platform using Terraform, Kubernetes, GitOps, ArgoCD, and AWS services.
